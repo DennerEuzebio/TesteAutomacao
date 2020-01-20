@@ -1,0 +1,21 @@
+1nomeInvalido,sobrenomeValido,12345,4,6,0,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,2
+nomeValido,1sobrenomeInvalido,12345,4,6,10,companhiaValida,!endereco 1 invalido,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,2
+nomeValido,sobrenomeValido,1234,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,0,12345,123456789,987654321,2
+nomeValido,sobrenomeValido,12345,0,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,!cidadeInvalida,9,12345,123456789,987654321,2
+1nomeInvalido,sobrenomeValido,12345,4,0,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,2
+nomeValido,sobrenomeValido,12345,4,6,0,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,phone,987654321,2
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,!endereco 2 invalido,cidadeValida,9,12345,123456789,987654321,1
+nomeValido,1sobrenomeInvalido,12345,4,6,10,companhiaValida,!endereco 1 invalido,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,2
+nomeValido,sobrenomeValido,1234,4,6,10,companhiaValida,endereco 1 valido,!endereco 2 invalido,cidadeValida,9,12345,123456789,mobile,3
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,!cidadeInvalida,0,12345,123456789,987654321,2
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,0,12345,123456789,mobile,2
+nomeValido,sobrenomeValido,12345,0,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,!@#$%,123456789,987654321,3
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,!@#$%,phone,987654321,3
+nomeValido,sobrenomeValido,12345,4,0,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,123456789,mobile,2
+,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,1
+nomeValido,,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,1
+nomeValido,sobrenomeValido,,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,1
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,,endereco 2 teste,cidadeValida,9,12345,123456789,987654321,1
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,,9,12345,123456789,987654321,1
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,,123456789,987654321,1
+nomeValido,sobrenomeValido,12345,4,6,10,companhiaValida,endereco 1 valido,endereco 2 teste,cidadeValida,9,12345,,,1
